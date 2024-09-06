@@ -76,6 +76,13 @@ namespace HanaRequestDnd
             "Unforgettable",
             "Dimensional",
             "Gale",
+            //60
+            "Additional",
+            "Curios",
+            "Hot",
+            "Legal",
+            "Lethal",
+            "Adult",
 
 
 
@@ -148,11 +155,18 @@ namespace HanaRequestDnd
             "Tailoring",
             "Feast",
             "Opportunity",
+            //60
             "Torment",
             "Cumulus",
             "Rehearsal",
             "Rewind",
             "Gear",
+            "Activity",
+            "Area",
+            "Body",
+            "Condition",
+            "Erotica",
+
 
         };
 
